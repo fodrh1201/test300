@@ -1,0 +1,5 @@
+/Users/KoHyungjin/Documents/Hyungjin/git/Hello3/Hello3/obj/x86/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/Users/KoHyungjin/Documents/Hyungjin/git/Hello3/Hello3/bin/Debug/Hello3.exe.mdb
+/Users/KoHyungjin/Documents/Hyungjin/git/Hello3/Hello3/bin/Debug/Hello3.exe
+/Users/KoHyungjin/Documents/Hyungjin/git/Hello3/Hello3/obj/x86/Debug/Hello3.exe
+/Users/KoHyungjin/Documents/Hyungjin/git/Hello3/Hello3/obj/x86/Debug/Hello3.exe.mdb
